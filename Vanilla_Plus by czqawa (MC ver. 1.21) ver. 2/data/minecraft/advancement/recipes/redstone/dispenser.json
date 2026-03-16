@@ -1,0 +1,3 @@
+{   "parent": "minecraft:recipes/root",   "criteria": {     "has_item": {       "trigger": "minecraft:inventory_changed",       "conditions": {         "items": [           {             "items": [              
+"minecraft:redstone",
+"minecraft:bow"             ]           }         ]       }     }   },   "requirements": [     [       "has_item"     ]   ],   "rewards": {     "recipes": [       "minecraft:dispenser"     ]   } }
