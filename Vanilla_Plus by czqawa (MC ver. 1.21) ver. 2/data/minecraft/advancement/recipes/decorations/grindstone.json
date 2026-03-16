@@ -1,2 +1,0 @@
-{   "parent": "minecraft:recipes/root",   "criteria": {     "has_item": {       "trigger": "minecraft:inventory_changed",       "conditions": {         "items": [           {             "items":               
-"#vanilla_plus_by_czq:any_gray_stone_slab"                       }         ]       }     }   },   "requirements": [     [       "has_item"     ]   ],   "rewards": {     "recipes": [       "minecraft:grindstone"     ]   } }
